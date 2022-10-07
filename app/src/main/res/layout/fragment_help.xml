@@ -32,7 +32,7 @@
             android:id="@+id/textView12"
             android:layout_width="313dp"
             android:layout_height="416dp"
-            android:text="For any enquires, email us at quenchj6@gmail.com. We will try our best to assist you :)"
+            android:text="For any enquires, email us at atharvkinage@gmail. We will try our best to assist you :).We are also open for suggestions."
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textSize="20sp"
             app:layout_constraintBottom_toBottomOf="parent"
